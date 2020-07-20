@@ -5,3 +5,5 @@ Given N rectangular buildings of width 1, find the minimum total area of two rec
 Please refer to this link.
 https://app.codility.com/cert/view/certMPYKKX-H4AAP3EW3DZRCVZG/details/
 
+Gol
+
